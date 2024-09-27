@@ -1,0 +1,1 @@
+import{_ as o,c as t,a,o as s,r as n}from"./index-czIB9irx.js";const c={name:"MainLayout"},r={class:"page"};function _(p,d,i,u,f,m){const e=n("RouterView");return s(),t("div",r,[a(e)])}const $=o(c,[["render",_],["__scopeId","data-v-0f26edd9"]]);export{$ as default};
